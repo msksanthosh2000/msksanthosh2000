@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SANTHOSH KUMAR</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center"></h3>
 
 - 🌱 I’m currently learning **Data science, Python django, ETL**
 
