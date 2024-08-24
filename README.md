@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm SANTHOSH KUMAR</h1>
-<h3 align="center"></h3>
 
-- 🌱 I’m currently learning **Data science, Python django, ETL**
+- 🌟 I’m currently working as a **Software Analyst** at **Agilysys Technology** specializing as a **Full Stack Developer**.
+
+- 🚀 My tech stack includes **Angular**, **Java**, **Spring Boot**, **Azure Cloud**, and **PostgreSQL**.
+
+- 📚 I will be posting my learning journey and projects here on GitHub.
 
 - 👨‍💻 All of my projects are available at [https://github.com/msksanthosh2000](https://github.com/msksanthosh2000)
 
-- 💬 about **I am highly motivated and enthusiastic always willing to learn,work. well with others as well as efficiently on my own.**
+- 💬 **About**: I am highly motivated and enthusiastic, always willing to learn and work. I thrive in collaborative environments and excel when working independently.
 
-- 📫 How to reach me **msksanthosh2000@gmail.com**
+- 📫 **How to reach me**: [msksanthosh2000@gmail.com](mailto:msksanthosh2000@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
